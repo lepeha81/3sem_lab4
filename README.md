@@ -245,6 +245,7 @@ class vosmoi
     }
 }
 ```
+![image](https://github.com/lepeha81/3sem_lab4/blob/main/1.PNG)
 ### Задание 2
 Создайте класс Car с тремя авто-свойствами: Name, ProductionYear и MaxSpeed, соответствующими названию, году выпуска и максимальной скорости соответственно.
 Создайте класс CarComparer, наследуемый от IComparer<Car> и реализуйте метод Compare таким образом, чтобы можно было сортировать массив элементов Car по названию, году выпуска или максимальной скорости по выбору.
@@ -360,6 +361,7 @@ class devyat
     }
 }
 ```
+![image](https://github.com/lepeha81/3sem_lab4/blob/main/2.PNG)
 ### Задание 3
 Используйте класс Car из задания №2, на его основе создайте класс CarCatalor, содержащий массив элементов типа Car. 
 Для класса CarCatalog реализуйте возможность итерации по элементам массива Car с помощью оператора foreach различными способами: 
@@ -542,3 +544,4 @@ class decyat
     }
 }
 ```
+![image](https://github.com/lepeha81/3sem_lab4/blob/main/3.PNG)
